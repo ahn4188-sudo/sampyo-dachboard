@@ -1,0 +1,28 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Runtime cache and temporary files
+dynamic_dashboard/cache/
+*.tmp
+*.temp
+*.log
+
+# Generated verification artifacts
+*.inspect.ndjson
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

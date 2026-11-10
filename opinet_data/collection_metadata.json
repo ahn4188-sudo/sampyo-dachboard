@@ -1,0 +1,295 @@
+{
+  "collected_at_kst_or_local": "2026-11-10T15:46:00",
+  "today_used_by_runtime": "2026-11-10",
+  "today_excluded": true,
+  "periods": [
+    {
+      "name": "recent_7d",
+      "start": "2026-11-03",
+      "end": "2026-11-09"
+    },
+    {
+      "name": "previous_7d",
+      "start": "2026-10-27",
+      "end": "2026-11-02"
+    }
+  ],
+  "sido_codes": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "08",
+    "09",
+    "10",
+    "11",
+    "14",
+    "15",
+    "17",
+    "18",
+    "19",
+    "20"
+  ],
+  "sido_count": 16,
+  "sigungu_codes_queried": false,
+  "products_and_brands": "API defaults (parameters omitted)",
+  "response_files": [
+    {
+      "file": "recent_7d_national_product_20261109.csv",
+      "endpoint": "dateAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "00",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_national_brand_20261109.csv",
+      "endpoint": "datePollAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "00",
+      "rows": 273
+    },
+    {
+      "file": "recent_7d_area_product_01_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "01",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_02_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "02",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_03_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "03",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_04_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "04",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_05_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "05",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_06_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "06",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_08_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "08",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_09_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "09",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_10_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "10",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_11_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "11",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_14_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "14",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_15_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "15",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_17_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "17",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_18_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "18",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_19_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "19",
+      "rows": 35
+    },
+    {
+      "file": "recent_7d_area_product_20_20261109.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "recent_7d",
+      "area": "20",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_national_product_20261102.csv",
+      "endpoint": "dateAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "00",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_national_brand_20261102.csv",
+      "endpoint": "datePollAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "00",
+      "rows": 273
+    },
+    {
+      "file": "previous_7d_area_product_01_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "01",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_02_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "02",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_03_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "03",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_04_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "04",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_05_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "05",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_06_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "06",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_08_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "08",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_09_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "09",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_10_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "10",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_11_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "11",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_14_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "14",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_15_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "15",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_17_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "17",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_18_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "18",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_19_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "19",
+      "rows": 35
+    },
+    {
+      "file": "previous_7d_area_product_20_20261102.csv",
+      "endpoint": "dateAreaAvgRecentPrice",
+      "period": "previous_7d",
+      "area": "20",
+      "rows": 35
+    }
+  ],
+  "total_api_calls": 37,
+  "errors": [],
+  "missing": []
+}
